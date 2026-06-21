@@ -5,7 +5,7 @@ Um Tetris completo construído do zero em Python com `pygame`, com as mecânicas
 
 ## Demonstração
 
-> _Adicione aqui um print ou GIF do jogo rodando (ex.: `docs/screenshot.png`)._
+![Tetris rodando](docs/screenshot.png)
 
 ## Funcionalidades
 
